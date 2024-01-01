@@ -35,5 +35,6 @@ Technologies Used
 
 Python (or any other programming language of choice)
 Command-line interface (CLI) or Graphical user interface (GUI) based on the application design
+
 Contribution
 Code used in this project was referenced from prior modules, ChatGPT, Copilot, and various google searches to help understand syntax and correct errors.
